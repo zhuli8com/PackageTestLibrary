@@ -1,4 +1,4 @@
-struct PackageTestLibrary {
+public struct PackageTestLibrary {
     var text = "Hello, World!"
     
     public func test() {
