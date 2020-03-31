@@ -1,5 +1,9 @@
 public struct PackageTestLibrary {
-    public var text = "Hello, World!"
+    var text = "Hello, World!"
+    
+    public init(){
+        
+    }
     
     public func test() {
         print(text)
